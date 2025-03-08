@@ -1,1 +1,1 @@
-We will organize and open-source the code as soon as possible, aiming to do so by March 2025 (approximately at the time of final publication of the paper).
+We plan to organize and open-source the code, ideally around the time of the paper’s final publication.
